@@ -1,0 +1,23 @@
+{
+  "name": "learnjavascript",
+  "version": "1.0.0",
+  "description": "tutorial for learning javascript taking inspiration from the pragmatic bookshelf ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlasgowClydeCollege/LearnJavaScript.git"
+  },
+  "author": "Dave Ball",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlasgowClydeCollege/LearnJavaScript/issues"
+  },
+  "homepage": "https://github.com/GlasgowClydeCollege/LearnJavaScript#readme",
+  "devDependencies": {
+    "karma": "^1.3.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
